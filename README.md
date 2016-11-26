@@ -11,12 +11,6 @@ Broadcast file - broadcast file FILE_PATH
 Unicast file - unicast file FILE_PATH clientName
 Blockcast file - blockcast file FILE_PATH clientName
 
-Contributions-
-Aman Chanana- Implemented message passing
-Harsh Kothari- Implementedd file passing
-
 Built With
 Text Editors- Sublime, Notepad++
 Java Socket programming concepts
-
-Authors - Aman Chanana(35611337) & Harsh Kothari(11038921)
